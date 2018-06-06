@@ -4,5 +4,10 @@ Inverts a 4 character sequence
 Prints the fibinachi sequence
 +>+[[->+>+<<]>>[-<<+>>]<<<[->>+<<]>[-<+>]>[-<+>]<.]
 
+Add:
+[-]
+
+Depricated:
+
 Prints the fibinachi sequence (in numeric characters) (not done)
 +>+>>>++++++++++++++++++++++++++++++++++++++++++++++++<<<[[->+>+<<]>>[-<<+>>]<<<[->>+<<]>[-<+>]>[-<+>]>>[->+>+<<]>>[-<<+>>]]
